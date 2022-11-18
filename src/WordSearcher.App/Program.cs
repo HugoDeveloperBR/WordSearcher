@@ -5,8 +5,6 @@ namespace WordSearcher.App;
 
 internal static class Program
 {
-    
-
     static void Main(string[] args)
     {
         Console.WriteLine(FiggleFonts.Doom.Render("Word Searcher"));
